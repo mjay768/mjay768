@@ -35,13 +35,11 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-
+[<img align="left" alt="indusmagazine.in" width="22px" src="https://drive.google.com/file/d/1f0Tnrmb5b8iixxyU0mRFoS-CsY5ltZq4/view?usp=sharing" />]
 
 <br />
 <br />
 ---
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: https://indusmagazine.in
 [twitter]: https://twitter.com/calisthenxhyd
