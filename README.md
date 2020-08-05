@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <img align="left" alt="indusmagazine.in" width="22px" src="https://cdn3.iconfinder.com/data/icons/monitors-with-programming-languages/512/cc-2-512.png" />
 <img align="left" alt="indusmagazine.in" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />
 <img align="left" alt="indusmagazine.in" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
-<img align="left" alt="indusmagazine.in" width="22px" src="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg" />
-<img align="left" alt="indusmagazine.in" width="22px" src="https://commons.wikimedia.org/wiki/Category:Cascading_Style_Sheets#/media/File:CSS3_logo_and_wordmark.svg" />
+<img align="left" alt="indusmagazine.in" width="22px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" />
+<img align="left" alt="indusmagazine.in" width="22px" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" />
 <img align="left" alt="indusmagazine.in" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 <img align="left" alt="indusmagazine.in" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" />
 
