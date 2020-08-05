@@ -20,7 +20,7 @@
 ## I'm a Developer, Student, A great Son and A brother!
 - 🔭 I’m currently a Computer Science Masters student (2019-2020)
 - 🌱 I'm currently building my skillset 👌
-- 👯 I’m searching for opportunities 👀
+- 👯 I’m in search of opportunities 👀
 - 🥅 2020 Goals: To find my first my job and step into the industry
 - ⚡ Fun fact: I am a Calisthenics athlete. Also, I can do a handstand. 😉
 
