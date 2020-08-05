@@ -14,3 +14,38 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm Manoj [website] 👋
+
+## I'm a Developer, Student, and A great Son and a brother!
+- 🔭 I’m currently a Computer Science Masters student (2019-2020)
+- 🌱 I'm currently building my skillset 👌
+- 👯 I’m searching for opportunities 👀
+- 🥅 2020 Goals: To find my first my job and step into the industry
+- ⚡ Fun fact: I am a Calisthenics athlete. Also, I can do a handstand. 😉
+
+### Connect with me:
+
+[<img align="left" alt="indusmagazine.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="blackhaat | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="calisthenxhyd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="manojponagandla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="calisthenxhyd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+
+<br />
+<br />
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+[website]: https://indusmagazine.in
+[twitter]: https://twitter.com/calisthenxhyd
+[youtube]: https://www.youtube.com/channel/UClwyrOhyH-K6cCZzkpPjrTA
+[instagram]: https://instagram.com/calisthenxhyd
+[linkedin]: https://www.linkedin.com/in/manojponagandla/
+
