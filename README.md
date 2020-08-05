@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="indusmagazine.in" width="22px" src="https://www.iconfinder.com/icons/4518857/python_icon" />]
+[<img align="left" alt="indusmagazine.in" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />]
 </svg>
 
 <br />
