@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Manoj [website] 👋
 
-## I'm a Developer, Student, and A great Son and a brother!
+## I'm a Developer, Student, A great Son and A brother!
 - 🔭 I’m currently a Computer Science Masters student (2019-2020)
 - 🌱 I'm currently building my skillset 👌
 - 👯 I’m searching for opportunities 👀
