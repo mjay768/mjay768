@@ -18,10 +18,10 @@
 ### Hi there, I'm Manoj [website] 👋
 
 ## I'm a Developer, Student, A great Son and A brother!
-- 🔭 I’m currently a Computer Science Masters student (2019-2020)
+- 🔭 A passionate Software Engineer with a Masters degree in Computer Science
 - 🌱 I have the required skillset, Do you have the mindset? 
 - 👯 In search of opportunities 👀
-- 🥅 2020 Goals: To find a job and step back into the industry
+- 🥅 2020 Goals: To grow in the field of AI & ML. Also as a person.
 - ⚡ Fun fact: I am a Calisthenics athlete 😉. 
 
 ### Connect with me:
